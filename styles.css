@@ -101,7 +101,7 @@ footer {
     display: none;
 }
 
-#Mobiles.html {
+#Mobiles {
     /* Mobiles page styles */
     display: flex;
     flex-direction: column;
@@ -109,5 +109,43 @@ footer {
     padding: 2em;
     background-color: #E0FFFF;
   }
+
+#Accessories {
+    /* Accessories page styles */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2em;
+    background-color: #FFFFF0;
+  }
+
+#Airpods {
+    /* Airpods page styles */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2em;
+    background-color: #F0FFF0;
+  }
+
+#Smart Watch {
+    /* Smart_Watches page styles */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2em;
+    background-color: #90EE90;
+  }
+
+#Recharge {
+    /* Recharge page styles */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2em;
+    background-color: #FFFACD;
+  }
+
+
   
   
