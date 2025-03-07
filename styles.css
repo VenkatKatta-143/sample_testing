@@ -101,12 +101,13 @@ footer {
     display: none;
 }
 
-#mobiles.html {
+#Mobiles.html {
     /* Mobiles page styles */
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 2em;
+    background-color: #E0FFFF;
   }
   
   
